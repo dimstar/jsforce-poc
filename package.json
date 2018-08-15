@@ -1,0 +1,15 @@
+{
+  "name": "jsforce-poc",
+  "version": "1.0.0",
+  "description": "This is a poc for salesforce integration with streaming API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Magee",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "jsforce": "^1.9.0"
+  }
+}
